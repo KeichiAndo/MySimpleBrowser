@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Simple Browser</string>
+    <string name="default_link">link</string>
+    <string name="name">Name</string>
+    <string name="url">URL</string>
+    <string name="edit">Edit</string>
+    <string name="go_to_url">Go to URL</string>
+    <string name="save">Save</string>
+</resources>
